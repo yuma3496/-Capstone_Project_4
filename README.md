@@ -1,4 +1,4 @@
-# A Project Management Software
+# A Task Management App
 
 ## Description:
 This project management system was developed in Java. The program is designed to be a project management system for a small structural engineering firm called 'Poised'. The company Poised works on various buildings in an engineering capacity to ensure structural integrity. The Java program was written to assist the company in keeping track of the many projects that they work on.
